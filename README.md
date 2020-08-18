@@ -19,9 +19,9 @@
 | е | Е | € | € |
 
 #### Установка
-Скопировать с заменой файл evdev.xml в /usr/share/X11/xkb/rules/,
+Скопировать с заменой файл `evdev.xml` в `/usr/share/X11/xkb/rules/`,
 
-файл ru в /usr/share/X11/xkb/symbols/
+файл `ru` в `/usr/share/X11/xkb/symbols/`
 
 ![Russian alternative Dvorak layout](https://github.com/Azamat-Alibaev/Russian-alternative-phonetic-dvorak/blob/master/Russian-Dvorak-typewriter-layout.png)
 
