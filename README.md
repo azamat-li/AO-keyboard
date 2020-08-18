@@ -23,6 +23,8 @@
 
 файл `ru` в `/usr/share/X11/xkb/symbols/`
 
+#### Раскладка
+
 ![Russian alternative Dvorak layout](https://github.com/Azamat-Alibaev/Russian-alternative-phonetic-dvorak/blob/master/Russian-Dvorak-typewriter-layout.png)
 
 
