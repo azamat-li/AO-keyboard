@@ -6288,6 +6288,12 @@
             <description>Indonesian (Arab Melayu, ext. phonetic)</description>
          </configItem>
        </variant>
+       <variant>
+         <configItem>
+          <name>arabic_dvorak</name>
+            <description>Arabic (phonetic, Dvorak)</description>
+         </configItem>
+       </variant>
       </variantList>
     </layout>
     <layout> 
