@@ -1,5 +1,23 @@
-# Russian-alternative-phonetic-dvorak
-Клавиатура Дворак Машинопись
+# Альтернативная раскладка Русская Дворак машинопись
+
+#### Описание
+
+Клавиатура Дворак Машинопись на основе раскладки `Programmer Dvorak`
+
+Оптимальна для жителей Башкортостана
+
+| Просто Клавиша | Клавиша + Shift |
+| --- | --- | 
+| [ | 7 |
+| { | 5 |
+| } | 3 |
+| ( | 1 |
+| = | 9 |
+| * | 0 |
+| ) | 2 |
+| + | 4 |
+| ] | 6 |
+| ! | 8 |
 
 | Просто Клавиша | Клавиша + Shift | Клавиша + Alt Gr | Клавиша + Shift + Alt Gr |
 | --- | --- | --- | --- |
@@ -17,9 +35,12 @@
 | е | Е | € | € |
 
 #### Установка
-Скопировать с заменой файл evdev.xml в /usr/share/X11/xkb/rules/,
-файл ru в /usr/share/X11/xkb/symbols/
+Скопировать с заменой файл `evdev.xml` в `/usr/share/X11/xkb/rules/`,
 
+файл `ru` в `/usr/share/X11/xkb/symbols/`
 
+#### Раскладка
+
+![Russian alternative Dvorak layout](https://github.com/Azamat-Alibaev/Russian-alternative-phonetic-dvorak/blob/master/Russian-Dvorak-typewriter-layout.png)
 
 
