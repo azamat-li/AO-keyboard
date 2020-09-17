@@ -639,6 +639,8 @@ xkb_symbols "alternative_russian_dvorak" {
 
     key <TLDE> { [ Cyrillic_yu, Cyrillic_YU ] };
 
+
+    // symbols row, left side
     key <AE01> { [ Cyrillic_shcha, Cyrillic_SHCHA ] };
     key <AE02> { [ bracketleft,     7,              currency                    ], type[Group1] = "FOUR_LEVEL_ALPHABETIC" };
     key <AE03> { [ braceleft,       5,              cent                        ], type[Group1] = "FOUR_LEVEL_ALPHABETIC" };
@@ -675,6 +677,7 @@ xkb_symbols "alternative_russian_dvorak" {
     key <AC09> { [ Cyrillic_en, Cyrillic_EN, Cyrillic_en_descender,  Cyrillic_EN_descender ] };
     key <AC10> { [ Cyrillic_es, Cyrillic_ES, 0x010004ab,             0x010004aa ] };
    
+    key <AB01> { [ Cyrillic_hardsign, Cyrillic_HARDSIGN ] };
     key <AB02> { [ Cyrillic_ya, Cyrillic_YA ] };
     key <AB03> { [ Cyrillic_shorti, Cyrillic_SHORTI ] };
     key <AB04> { [ Cyrillic_ka, Cyrillic_KA, 0x010004a1,             0x010004a0 ] };
@@ -688,6 +691,8 @@ xkb_symbols "alternative_russian_dvorak" {
     include "level3(ralt_switch)"
 
 };
+
+
 
 partial alphanumeric_keys
 xkb_symbols "phonetic_fr" {
