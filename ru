@@ -581,7 +581,7 @@ xkb_symbols "phonetic_dvorak" {
 
     key <AE01> { [ 1, exclam ] };
     key <AE02> { [ 2, at ] };
-    key <AE03> { [ 3, Cyrillic_io ] };
+    key <AE03> { [ 3, Cyrillic_io ] };  
     key <AE04> { [ 4, Cyrillic_IO ] };
     key <AE05> { [ 5, Cyrillic_hardsign ] };
     key <AE06> { [ 6, Cyrillic_HARDSIGN ] };
@@ -668,7 +668,7 @@ xkb_symbols "alternative_russian_dvorak" {
 
     key <AC01> { [ Cyrillic_a, Cyrillic_A , Cyrillic_schwa,         Cyrillic_SCHWA] };
     key <AC02> { [ Cyrillic_o, Cyrillic_O,   Cyrillic_o_bar,         Cyrillic_O_bar ] };
-    key <AC03> { [ Cyrillic_ie, Cyrillic_IE, EuroSign, EuroSign] };
+    key <AC03> { [ Cyrillic_ie, Cyrillic_IE, Cyrillic_io,  Cyrillic_IO ] };
     key <AC04> { [ Cyrillic_u, Cyrillic_U, Cyrillic_u_straight,    Cyrillic_U_straight ] };
     key <AC05> { [ Cyrillic_i, Cyrillic_I ] };
     key <AC06> { [ Cyrillic_de, Cyrillic_DE ] };
