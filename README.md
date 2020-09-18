@@ -41,6 +41,6 @@
 
 #### Раскладка
 
-![Russian alternative Dvorak layout](https://github.com/Azamat-Alibaev/Russian-alternative-phonetic-dvorak/blob/master/Russian-Dvorak-typewriter-layout.png)
+![Russian alternative Dvorak layout](https://github.com/Azamat-Alibaev/Russian-alternative-phonetic-dvorak/blob/master/russian-phonetic-typewriter-dvorak.png)
 
 
