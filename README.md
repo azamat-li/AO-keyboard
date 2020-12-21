@@ -1,7 +1,7 @@
 
 # Aim
 
-Make national AOEU Layouts for more Languages
+Make national AOEU layouts for more languages.
 
 ### National layouts 
 
